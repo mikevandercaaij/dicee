@@ -1,1 +1,1 @@
-# dicee
+Easy way to settle arguments :)
